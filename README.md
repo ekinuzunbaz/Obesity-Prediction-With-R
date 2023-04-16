@@ -11,3 +11,5 @@
 * Machine learning models, 
 * Parameter tuning, 
 * Performance results with plots.
+
+Thanks to my teammate for his contributions: https://github.com/yusufokkabas
